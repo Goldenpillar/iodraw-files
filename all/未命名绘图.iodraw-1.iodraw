@@ -40,7 +40,7 @@
         <mxCell id="cUc1qNBN0NivT5oA_k-h-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cUc1qNBN0NivT5oA_k-h-5" target="cUc1qNBN0NivT5oA_k-h-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUc1qNBN0NivT5oA_k-h-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="cUc1qNBN0NivT5oA_k-h-5" value="&lt;font color=&quot;#ff3333&quot;&gt;目标膝关节&lt;/font&gt;&lt;div&gt;三维模型重建&lt;/div&gt;&lt;div&gt;（工）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cUc1qNBN0NivT5oA_k-h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUc1qNBN0NivT5oA_k-h-6" target="cUc1qNBN0NivT5oA_k-h-7">
