@@ -43,7 +43,7 @@
         <mxCell id="cUc1qNBN0NivT5oA_k-h-5" value="&lt;font color=&quot;#ff3333&quot;&gt;目标膝关节&lt;/font&gt;&lt;div&gt;三维模型重建&lt;/div&gt;&lt;div&gt;（工）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cUc1qNBN0NivT5oA_k-h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUc1qNBN0NivT5oA_k-h-6" target="cUc1qNBN0NivT5oA_k-h-7">
+        <mxCell id="cUc1qNBN0NivT5oA_k-h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUc1qNBN0NivT5oA_k-h-33" target="cUc1qNBN0NivT5oA_k-h-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cUc1qNBN0NivT5oA_k-h-6" value="临床设计需求（医）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cUc1qNBN0NivT5oA_k-h-7" value="数据获取与分析（医）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="220" y="530" width="90" height="60" as="geometry" />
+          <mxGeometry x="230" y="530" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cUc1qNBN0NivT5oA_k-h-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUc1qNBN0NivT5oA_k-h-8" target="cUc1qNBN0NivT5oA_k-h-1">
           <mxGeometry relative="1" as="geometry" />
@@ -97,8 +97,14 @@
         <mxCell id="cUc1qNBN0NivT5oA_k-h-14" value="设计修改&lt;div&gt;（工）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="880" y="530" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cUc1qNBN0NivT5oA_k-h-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUc1qNBN0NivT5oA_k-h-6" target="cUc1qNBN0NivT5oA_k-h-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="560" as="sourcePoint" />
+            <mxPoint x="220" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cUc1qNBN0NivT5oA_k-h-33" value="关键设计信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="538" width="100" height="30" as="geometry" />
+          <mxGeometry x="110" y="545" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
