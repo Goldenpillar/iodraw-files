@@ -7,7 +7,7 @@
         <mxCell id="cUc1qNBN0NivT5oA_k-h-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cUc1qNBN0NivT5oA_k-h-1" target="cUc1qNBN0NivT5oA_k-h-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUc1qNBN0NivT5oA_k-h-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cUc1qNBN0NivT5oA_k-h-1" value="MDT确认手术方案（医工）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="374" y="530" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cUc1qNBN0NivT5oA_k-h-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUc1qNBN0NivT5oA_k-h-2" target="cUc1qNBN0NivT5oA_k-h-13">
