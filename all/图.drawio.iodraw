@@ -1,0 +1,107 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="7lfYmpkeb9d6wMwu13RI">
+    <mxGraphModel dx="1554" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="roZQWv2BXdENwDaGPS4M-2" value="初始化阶段&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="287" y="50" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="roZQWv2BXdENwDaGPS4M-1" target="roZQWv2BXdENwDaGPS4M-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="357" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-3" value="评估适应度&lt;div&gt;初始化 pbest, gbest&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="327" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="roZQWv2BXdENwDaGPS4M-4" target="roZQWv2BXdENwDaGPS4M-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-4" value="初始化粒子群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="327" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-5" value="迭代优化阶段&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="140" y="180" width="410" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="roZQWv2BXdENwDaGPS4M-6" target="roZQWv2BXdENwDaGPS4M-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="318" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-36" value="更新一代" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="roZQWv2BXdENwDaGPS4M-29" vertex="1" connectable="0">
+          <mxGeometry x="0.2114" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-6" value="迭代循环" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="354" y="200" width="66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="roZQWv2BXdENwDaGPS4M-7" target="roZQWv2BXdENwDaGPS4M-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-7" value="更新所有粒子&lt;div&gt;的速度与位置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="273" y="321" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="roZQWv2BXdENwDaGPS4M-11" target="roZQWv2BXdENwDaGPS4M-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="318" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="197.75" y="371" width="240" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-8" value="评估新位置的适应度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="207.75" y="380" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-9" value="更新每个粒子的pbest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="282.75" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-10" value="更新全局gbest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="362.75" y="380" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="roZQWv2BXdENwDaGPS4M-12" target="roZQWv2BXdENwDaGPS4M-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="475" />
+              <mxPoint x="460" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-37" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="roZQWv2BXdENwDaGPS4M-31" vertex="1" connectable="0">
+          <mxGeometry x="0.0397" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="roZQWv2BXdENwDaGPS4M-12" target="roZQWv2BXdENwDaGPS4M-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="roZQWv2BXdENwDaGPS4M-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.0463" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-12" value="满足终&lt;div&gt;止&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;条件?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="363" y="460" width="66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="roZQWv2BXdENwDaGPS4M-13" target="roZQWv2BXdENwDaGPS4M-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-13" value="输出最优标定参数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="334.5" y="560" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-14" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="345.5" y="610" width="101.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="roZQWv2BXdENwDaGPS4M-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="roZQWv2BXdENwDaGPS4M-3" target="roZQWv2BXdENwDaGPS4M-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
