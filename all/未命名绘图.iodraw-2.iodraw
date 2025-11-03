@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GA6lI0h7X4m_lYRb2bbR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GA6lI0h7X4m_lYRb2bbR-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-25" value="进化优化阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="296" width="404" height="729" as="geometry" />
+          <mxGeometry x="30" y="296" width="470" height="729" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-26" value="初始化阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="104" width="481" height="142" as="geometry" />
