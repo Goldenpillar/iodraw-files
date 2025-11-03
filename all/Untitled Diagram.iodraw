@@ -13,6 +13,9 @@
         <mxCell id="d7Z28bKAB3ii6xnln4ss-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d7Z28bKAB3ii6xnln4ss-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hG__7VkwhTVGzIDOVjGa-40" value="研究目标：构建高精度标定体系" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="219" y="252" width="252" height="66" as="geometry" />
         </mxCell>
@@ -48,13 +51,6 @@
         <mxCell id="hG__7VkwhTVGzIDOVjGa-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="hG__7VkwhTVGzIDOVjGa-39" target="hG__7VkwhTVGzIDOVjGa-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="107" y="343" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hG__7VkwhTVGzIDOVjGa-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-42" edge="1">
