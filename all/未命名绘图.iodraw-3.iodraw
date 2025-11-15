@@ -47,10 +47,10 @@
           <mxGeometry x="170" y="780" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-191" value="RLS参数更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="909" width="150" height="48" as="geometry" />
+          <mxGeometry x="30" y="870" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-192" value="协方差更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="327" y="870" width="141" height="48" as="geometry" />
+          <mxGeometry x="280" y="870" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-193" value="收敛判定" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="234" y="1007" width="112" height="112" as="geometry" />
@@ -71,13 +71,6 @@
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-202" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-189" target="GsGlSsELi-rmoS3SC0Mz-190">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GsGlSsELi-rmoS3SC0Mz-205" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-191" target="GsGlSsELi-rmoS3SC0Mz-193">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="95" y="982" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-208" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-193" target="GsGlSsELi-rmoS3SC0Mz-194">
