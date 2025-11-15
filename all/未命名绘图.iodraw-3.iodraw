@@ -28,11 +28,14 @@
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-187" value="计算雅可比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="94" y="570" width="140" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-188" target="GsGlSsELi-rmoS3SC0Mz-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-188" value="信息增益" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="271" y="570" width="125" height="48" as="geometry" />
+          <mxGeometry x="280" y="570" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-189" value="选择下一测试点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="165" y="660" width="173" height="48" as="geometry" />
+          <mxGeometry x="164" y="680" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-190" value="施加磁场采样" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="114" y="810" width="157" height="48" as="geometry" />
