@@ -26,7 +26,7 @@
           <mxGeometry x="60" y="614" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-188" value="信息增益" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="232" y="614" width="125" height="48" as="geometry" />
+          <mxGeometry x="228.5" y="614" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-189" value="选择下一测试点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="712" width="173" height="48" as="geometry" />
