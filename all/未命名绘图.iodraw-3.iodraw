@@ -11,7 +11,7 @@
           <mxGeometry x="188" y="318" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-185" value="生成候选磁场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="417" width="156" height="48" as="geometry" />
+          <mxGeometry x="181" y="400" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-186" value="评估候选点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="123" y="515" width="140" height="48" as="geometry" />
