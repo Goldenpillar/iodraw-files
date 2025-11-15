@@ -53,7 +53,7 @@
           <mxGeometry x="84" y="860" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-192" value="协方差更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="264" y="860" width="141" height="48" as="geometry" />
+          <mxGeometry x="290" y="860" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-193" value="收敛判定" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="234" y="1007" width="112" height="112" as="geometry" />
