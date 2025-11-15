@@ -79,14 +79,140 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-181" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.98;entryY=1.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-171" target="GsGlSsELi-rmoS3SC0Mz-165">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.047" y="75" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1436" y="115" />
               <mxPoint x="536" y="115" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-182" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=-0.01;entryY=0.51;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-171" target="GsGlSsELi-rmoS3SC0Mz-172">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-183" value="初始样本采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-184" value="模型初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="188" y="318" width="142" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-185" value="生成候选磁场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="417" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-186" value="评估候选点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="123" y="515" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-187" value="计算雅可比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="31" y="614" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-188" value="信息增益" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="232" y="614" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-189" value="选择下一测试点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="106" y="712" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-190" value="施加磁场采样" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="114" y="810" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-191" value="RLS参数更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="909" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-192" value="协方差更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="909" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-193" value="收敛判定" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="234" y="1007" width="112" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-194" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="244" y="1192" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-195" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-183" target="GsGlSsELi-rmoS3SC0Mz-184">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-196" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-184" target="GsGlSsELi-rmoS3SC0Mz-185">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-197" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-185" target="GsGlSsELi-rmoS3SC0Mz-186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="193" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-198" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-186" target="GsGlSsELi-rmoS3SC0Mz-187">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="101" y="589" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-199" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-186" target="GsGlSsELi-rmoS3SC0Mz-188">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294" y="589" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-200" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-187" target="GsGlSsELi-rmoS3SC0Mz-189">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="101" y="687" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-201" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.79;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-188" target="GsGlSsELi-rmoS3SC0Mz-189">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294" y="687" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-202" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-189" target="GsGlSsELi-rmoS3SC0Mz-190">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-203" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-190" target="GsGlSsELi-rmoS3SC0Mz-191">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="884" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-204" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-190" target="GsGlSsELi-rmoS3SC0Mz-192">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="884" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-205" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-191" target="GsGlSsELi-rmoS3SC0Mz-193">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="982" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-206" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-192" target="GsGlSsELi-rmoS3SC0Mz-193">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-207" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.16;entryX=0.98;entryY=1;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-193" target="GsGlSsELi-rmoS3SC0Mz-185">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="409" y="982" />
+              <mxPoint x="409" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-208" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-193" target="GsGlSsELi-rmoS3SC0Mz-194">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
