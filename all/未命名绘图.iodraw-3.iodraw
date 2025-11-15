@@ -40,6 +40,9 @@
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-190" target="GsGlSsELi-rmoS3SC0Mz-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-190" target="GsGlSsELi-rmoS3SC0Mz-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-190" value="施加磁场采样" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="170" y="780" width="157" height="48" as="geometry" />
         </mxCell>
@@ -47,7 +50,7 @@
           <mxGeometry x="20" y="909" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-192" value="协方差更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="900" width="141" height="48" as="geometry" />
+          <mxGeometry x="327" y="870" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-193" value="收敛判定" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="234" y="1007" width="112" height="112" as="geometry" />
@@ -75,11 +78,6 @@
             <Array as="points">
               <mxPoint x="95" y="982" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GsGlSsELi-rmoS3SC0Mz-206" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-192" target="GsGlSsELi-rmoS3SC0Mz-193">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-208" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-193" target="GsGlSsELi-rmoS3SC0Mz-194">
