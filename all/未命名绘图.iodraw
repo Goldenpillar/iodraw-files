@@ -48,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oLB0TR9ynYJ7Bvkhn5G7-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oLB0TR9ynYJ7Bvkhn5G7-4">
+        <mxCell id="oLB0TR9ynYJ7Bvkhn5G7-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oLB0TR9ynYJ7Bvkhn5G7-4">
           <mxGeometry x="-0.8385" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -57,7 +57,7 @@
           <mxGeometry x="168.5" y="800" width="184" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-36" value="输出最优标定参数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="166" y="980" width="189" height="49" as="geometry" />
+          <mxGeometry x="166" y="970" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-37" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="231.5" y="1050" width="58" height="34" as="geometry" />
