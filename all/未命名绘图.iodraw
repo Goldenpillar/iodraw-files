@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-25" value="进化优化阶段" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="30" y="296" width="470" height="729" as="geometry" />
+          <mxGeometry x="470" y="310" width="470" height="729" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-26" value="初始化阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="20" y="104" width="481" height="142" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-30" value="进化循环" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="198" y="321" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oLB0TR9ynYJ7Bvkhn5G7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GA6lI0h7X4m_lYRb2bbR-31" target="GA6lI0h7X4m_lYRb2bbR-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-31" value="更新所有粒子的速度与位置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="134" y="420" width="254" height="49" as="geometry" />
@@ -62,14 +65,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="183" y="791" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GA6lI0h7X4m_lYRb2bbR-43" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0;entryX=0.65;entryY=0.99;rounded=0;" parent="1" source="GA6lI0h7X4m_lYRb2bbR-35" target="GA6lI0h7X4m_lYRb2bbR-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="338" y="791" />
-              <mxPoint x="338" y="494" />
             </Array>
           </mxGeometry>
         </mxCell>
