@@ -44,10 +44,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-190" value="施加磁场采样" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="780" width="157" height="48" as="geometry" />
+          <mxGeometry x="173" y="780" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-191" value="RLS参数更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="870" width="150" height="48" as="geometry" />
+          <mxGeometry x="84" y="860" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-192" value="协方差更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="870" width="141" height="48" as="geometry" />
