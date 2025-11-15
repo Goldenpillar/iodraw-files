@@ -53,13 +53,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GsGlSsELi-rmoS3SC0Mz-198" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-186" target="GsGlSsELi-rmoS3SC0Mz-187">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="101" y="589" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-199" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-186" target="GsGlSsELi-rmoS3SC0Mz-188">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
