@@ -34,6 +34,9 @@
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-33" value="更新每个粒子的 pbest" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="74" y="618" width="218" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="oLB0TR9ynYJ7Bvkhn5G7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GA6lI0h7X4m_lYRb2bbR-34" target="GA6lI0h7X4m_lYRb2bbR-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-34" value="更新全局 gbest" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="99" y="717" width="169" height="49" as="geometry" />
         </mxCell>
@@ -46,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-35" value="是否满足终止条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="169" y="816" width="184" height="184" as="geometry" />
+          <mxGeometry x="91" y="830" width="184" height="184" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-36" value="输出最优标定参数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="166" y="1098" width="189" height="49" as="geometry" />
