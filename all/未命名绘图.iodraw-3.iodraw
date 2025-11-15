@@ -34,6 +34,9 @@
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-188" value="信息增益" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="570" width="125" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-189" target="GsGlSsELi-rmoS3SC0Mz-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-189" value="选择下一测试点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="172.5" y="680" width="173" height="48" as="geometry" />
         </mxCell>
@@ -50,7 +53,7 @@
           <mxGeometry x="84" y="860" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-192" value="协方差更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="870" width="141" height="48" as="geometry" />
+          <mxGeometry x="264" y="860" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-193" value="收敛判定" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="234" y="1007" width="112" height="112" as="geometry" />
