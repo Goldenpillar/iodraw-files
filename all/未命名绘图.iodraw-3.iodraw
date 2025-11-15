@@ -10,11 +10,14 @@
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-184" value="模型初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="188" y="318" width="142" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-185" target="GsGlSsELi-rmoS3SC0Mz-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-185" value="生成候选磁场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="181" y="400" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-186" value="评估候选点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="123" y="515" width="140" height="48" as="geometry" />
+          <mxGeometry x="189" y="500" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-187" value="计算雅可比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="31" y="614" width="140" height="48" as="geometry" />
@@ -48,13 +51,6 @@
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-196" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-184" target="GsGlSsELi-rmoS3SC0Mz-185">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GsGlSsELi-rmoS3SC0Mz-197" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-185" target="GsGlSsELi-rmoS3SC0Mz-186">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="193" y="490" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GsGlSsELi-rmoS3SC0Mz-198" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-186" target="GsGlSsELi-rmoS3SC0Mz-187">
