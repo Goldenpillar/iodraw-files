@@ -1,90 +1,102 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="f5Gn17w6Q5-9xEPneZ7O">
-    <mxGraphModel dx="1943" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="gJFbx-ot9oSnkfWG-O6I">
+    <mxGraphModel dx="1554" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-73" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="39" y="1260" width="539" height="295" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-1" value="初始样本采集与参数预估&#xa;选取有限磁场点获取输出数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="101" y="20" width="254" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-74" value="迭代优化步骤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1013" width="227" height="197" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-2" value="构建误差模型&#xa;最小二乘求初值参数并初始化协方差与噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="101" y="154" width="253" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-75" value="初始化阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="583" width="733" height="123" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-3" value="生成等效磁场候选集&#xa;方向与幅值覆盖单位球面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="102" y="287" width="250" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-76" value="初始化粒子群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aD_ipyaNsWu9ixMDcXkw-75">
-          <mxGeometry x="43" y="46" width="158" height="48" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-4" value="计算候选点雅可比矩阵&#xa;预测加入后的协方差变化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="403" width="251" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-77" value="评估初始适应度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aD_ipyaNsWu9ixMDcXkw-75">
-          <mxGeometry x="251" y="46" width="172" height="48" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-5" value="计算信息增益评分&#xa;加入磁场误差惩罚项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="519" width="251" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-78" value="确定初始 pbest 与 gbest" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aD_ipyaNsWu9ixMDcXkw-75">
-          <mxGeometry x="473" y="46" width="233" height="48" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-6" value="选择评分最高的候选点作为下一激励磁场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="635" width="253" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-79" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="358" y="500" width="56" height="33" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-7" value="施加激励磁场并采集三轴输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="774" width="254" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aD_ipyaNsWu9ixMDcXkw-80" target="aD_ipyaNsWu9ixMDcXkw-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-8" value="构建该点的雅可比矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="890" width="221" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-80" value="是否满足终止条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="295" y="757" width="184" height="184" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-9" value="使用RLS更新参数估计与协方差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="988" width="246" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-81" value="输出最优标定参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="292" y="1038" width="189" height="48" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-10" value="是否满足终止条件&#xa;1  参数变化小于阈值&#xa;2  协方差收敛&#xa;3  点数达到上限" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="101" y="1104" width="253" height="253" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-82" value="更新粒子速度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="66" y="1038" width="156" height="48" as="geometry" />
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-11" value="终止采样并输出最终参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="109" y="1429" width="238" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-83" value="更新粒子位置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1136" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-84" value="评估适应度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="74" y="1285" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-85" value="更新 pbest" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="75" y="1383" width="136" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-86" value="更新 gbest" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="262" y="1481" width="135" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-87" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="358" y="1144" width="57" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-88" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aD_ipyaNsWu9ixMDcXkw-80" target="aD_ipyaNsWu9ixMDcXkw-81">
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-1" target="GsGlSsELi-rmoS3SC0Mz-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aD_ipyaNsWu9ixMDcXkw-82" target="aD_ipyaNsWu9ixMDcXkw-83">
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-2" target="GsGlSsELi-rmoS3SC0Mz-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aD_ipyaNsWu9ixMDcXkw-83" target="aD_ipyaNsWu9ixMDcXkw-84">
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-3" target="GsGlSsELi-rmoS3SC0Mz-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="147" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-4" target="GsGlSsELi-rmoS3SC0Mz-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aD_ipyaNsWu9ixMDcXkw-84" target="aD_ipyaNsWu9ixMDcXkw-85">
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-5" target="GsGlSsELi-rmoS3SC0Mz-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aD_ipyaNsWu9ixMDcXkw-81" target="aD_ipyaNsWu9ixMDcXkw-87">
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-6" target="GsGlSsELi-rmoS3SC0Mz-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aD_ipyaNsWu9ixMDcXkw-79" target="aD_ipyaNsWu9ixMDcXkw-75">
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-7" target="GsGlSsELi-rmoS3SC0Mz-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aD_ipyaNsWu9ixMDcXkw-75" target="aD_ipyaNsWu9ixMDcXkw-80">
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-8" target="GsGlSsELi-rmoS3SC0Mz-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-9" target="GsGlSsELi-rmoS3SC0Mz-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="147" y="1079" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-21" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-10" target="GsGlSsELi-rmoS3SC0Mz-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsGlSsELi-rmoS3SC0Mz-22" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0.69;entryY=1;rounded=0;" edge="1" parent="1" source="GsGlSsELi-rmoS3SC0Mz-10" target="GsGlSsELi-rmoS3SC0Mz-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="309" y="1079" />
+              <mxPoint x="309" y="378" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
