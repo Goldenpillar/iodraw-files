@@ -43,9 +43,6 @@
         <mxCell id="aD_ipyaNsWu9ixMDcXkw-84" value="评估适应度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="1285" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aD_ipyaNsWu9ixMDcXkw-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aD_ipyaNsWu9ixMDcXkw-85" target="aD_ipyaNsWu9ixMDcXkw-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aD_ipyaNsWu9ixMDcXkw-85" value="更新 pbest" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="75" y="1383" width="136" height="48" as="geometry" />
         </mxCell>
