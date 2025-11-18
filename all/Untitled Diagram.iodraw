@@ -4,87 +4,87 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-38" value="传统标定问题" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-38" value="传统标定问题" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="267" y="20" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-39" value="模型不完备&#xa;算法不稳定&#xa;采样效率低" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-39" value="模型不完备&#xa;算法不稳定&#xa;采样效率低" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="289" y="118" width="112" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="d7Z28bKAB3ii6xnln4ss-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-43" edge="1">
+        <mxCell id="d7Z28bKAB3ii6xnln4ss-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d7Z28bKAB3ii6xnln4ss-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-41" edge="1">
+        <mxCell id="d7Z28bKAB3ii6xnln4ss-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-40" value="研究目标：构建高精度标定体系" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-40" value="研究目标：构建高精度标定体系" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="219" y="252" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-41" value="误差模型建立" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-41" value="误差模型建立" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="29" y="368" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-42" value="标定算法优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-42" value="标定算法优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="266" y="368" width="158" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-43" value="数据采集优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-43" value="数据采集优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="498" y="368" width="158" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="d7Z28bKAB3ii6xnln4ss-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-44" target="hG__7VkwhTVGzIDOVjGa-47" edge="1">
+        <mxCell id="d7Z28bKAB3ii6xnln4ss-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-44" target="hG__7VkwhTVGzIDOVjGa-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-44" value="扩展非线性模型&#xa;考虑系统与线圈误差" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-44" value="扩展非线性模型&#xa;考虑系统与线圈误差" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="466" width="175" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-45" value="两阶段算法&#xa;RLS + BPSO + D-Optimal" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-45" value="两阶段算法&#xa;RLS + BPSO + D-Optimal" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="245" y="466" width="200" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="d7Z28bKAB3ii6xnln4ss-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-46" target="hG__7VkwhTVGzIDOVjGa-47" edge="1">
+        <mxCell id="d7Z28bKAB3ii6xnln4ss-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-46" target="hG__7VkwhTVGzIDOVjGa-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-46" value="优化等效旋转法&#xa;减少测点 提升效率" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-46" value="优化等效旋转法&#xa;减少测点 提升效率" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="495" y="466" width="163" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-47" value="实现高精度与高鲁棒性" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-47" value="实现高精度与效率" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="235" y="582" width="221" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-48" value="形成零磁环境下&#xa;磁通门标定与误差校正体系" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-48" value="形成零磁环境下&#xa;磁通门标定与误差校正体系" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="219" y="681" width="253" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-38" target="hG__7VkwhTVGzIDOVjGa-39" edge="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-38" target="hG__7VkwhTVGzIDOVjGa-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-39" target="hG__7VkwhTVGzIDOVjGa-40" edge="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-39" target="hG__7VkwhTVGzIDOVjGa-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-42" edge="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-40" target="hG__7VkwhTVGzIDOVjGa-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-41" target="hG__7VkwhTVGzIDOVjGa-44" edge="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-41" target="hG__7VkwhTVGzIDOVjGa-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-42" target="hG__7VkwhTVGzIDOVjGa-45" edge="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-42" target="hG__7VkwhTVGzIDOVjGa-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-43" target="hG__7VkwhTVGzIDOVjGa-46" edge="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-43" target="hG__7VkwhTVGzIDOVjGa-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-45" target="hG__7VkwhTVGzIDOVjGa-47" edge="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-45" target="hG__7VkwhTVGzIDOVjGa-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=14;" parent="1" source="hG__7VkwhTVGzIDOVjGa-47" target="hG__7VkwhTVGzIDOVjGa-48" edge="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-47" target="hG__7VkwhTVGzIDOVjGa-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
