@@ -31,7 +31,7 @@
         <mxCell id="d7Z28bKAB3ii6xnln4ss-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="hG__7VkwhTVGzIDOVjGa-44" target="hG__7VkwhTVGzIDOVjGa-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hG__7VkwhTVGzIDOVjGa-44" value="扩展非线性模型&#xa;考虑系统与线圈误差" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="hG__7VkwhTVGzIDOVjGa-44" value="扩展非线性模型&#xa;考虑幅值依赖误差" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="466" width="175" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hG__7VkwhTVGzIDOVjGa-45" value="两阶段算法&#xa;RLS + BPSO + D-Optimal" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
