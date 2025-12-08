@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Tw0aXP_8JeEb9FOBjz-H">
-    <mxGraphModel dx="660" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2422" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,14 +118,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="542" y="1740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I9Kt_Bt82X6PKMd11ndk-110" value="参数反馈/重置" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.72;entryY=1;rounded=0;fontSize=20;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-95" target="I9Kt_Bt82X6PKMd11ndk-89">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="328" y="1740" />
-              <mxPoint x="328" y="1021" />
             </Array>
           </mxGeometry>
         </mxCell>
