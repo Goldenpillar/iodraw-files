@@ -34,7 +34,7 @@
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-91" value="判别：数据量 k ≥ N？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="391" y="1195" width="202" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="I9Kt_Bt82X6PKMd11ndk-92" value="汇总数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-92" value="汇总缓冲池全量数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="440" y="1469" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-93" value="构建扩展非线性误差模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
