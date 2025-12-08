@@ -16,8 +16,11 @@
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-85" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="633.5" y="530" width="47" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-86" target="I9Kt_Bt82X6PKMd11ndk-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-86" value="输入测量值 参考值 " style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="530" y="690" width="229" height="50" as="geometry" />
+          <mxGeometry x="530" y="690" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-87" target="I9Kt_Bt82X6PKMd11ndk-92">
           <mxGeometry relative="1" as="geometry" />
@@ -66,14 +69,6 @@
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-97" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="423" y="1973" width="47" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="I9Kt_Bt82X6PKMd11ndk-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1.01;entryX=1;entryY=0.16;rounded=0;fontSize=20;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-86" target="I9Kt_Bt82X6PKMd11ndk-88">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="574" y="740" />
-              <mxPoint x="574" y="776" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-100" value="存入" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-86" target="I9Kt_Bt82X6PKMd11ndk-87">
           <mxGeometry relative="1" as="geometry">
