@@ -40,6 +40,9 @@
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-90" value="线性参数估计值 " style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="60" y="960" width="234" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-91" target="I9Kt_Bt82X6PKMd11ndk-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-91" value="判别：数据量 k ≥ N？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="391" y="1195" width="202" height="202" as="geometry" />
         </mxCell>
