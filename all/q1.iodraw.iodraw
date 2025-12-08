@@ -14,7 +14,7 @@
           <mxGeometry x="493" y="627" width="299" height="270" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-85" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="628" y="530" width="47" height="47" as="geometry" />
+          <mxGeometry x="633.5" y="530" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-86" value="输入测量值 参考值 " style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="548" y="680" width="211" height="51" as="geometry" />
