@@ -17,7 +17,7 @@
           <mxGeometry x="628" y="530" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-86" value="输入测量值 参考值 " style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="546" y="652" width="211" height="51" as="geometry" />
+          <mxGeometry x="548" y="680" width="211" height="51" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-87" value="历史数据缓冲池" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="590" y="801" width="127" height="71" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-91" value="判别：数据量 k ≥ N？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="391" y="1195" width="202" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="I9Kt_Bt82X6PKMd11ndk-92" value="汇总缓冲池全量数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-92" value="汇总数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="440" y="1469" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-93" value="构建扩展非线性误差模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
