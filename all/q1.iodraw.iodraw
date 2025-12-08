@@ -4,6 +4,150 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-51" value="阶段二: 非线性模型全局精修 PSO" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="121" y="1240" width="621" height="659" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-52" value="阶段一: 线性模型快速更新 RLS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="846" width="338" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-53" value="数据采集与预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="445" y="697" width="320" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-54" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="589" y="600" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-55" value="输入: 磁场测量值 B_meas, 参考值 B_ref" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="494" y="722" width="237" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-56" value="历史数据缓冲池" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="554" y="871" width="127" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-57" value="构建线性误差模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="114" y="882" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-58" value="RLS 递推最小二乘更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="99" y="1017" width="218" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-59" value="获取线性参数估计值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="58" y="1116" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-60" value="判别: 数据量 k ≥ N ?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="363" y="1265" width="191" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-61" value="提取缓冲池全量数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="401" y="1529" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-62" value="构建扩展非线性模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="401" y="1627" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-63" value="PSO 粒子群全局寻优" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="401" y="1726" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-64" value="输出全局最优参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="1825" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-65" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="384" y="2032" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-66" value="输出: 最终标定系数" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1948" width="177" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-54" target="I9Kt_Bt82X6PKMd11ndk-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1.01;entryX=1;entryY=0.14;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-55" target="I9Kt_Bt82X6PKMd11ndk-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="532" y="810" />
+              <mxPoint x="532" y="846" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-69" value="存入" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-55" target="I9Kt_Bt82X6PKMd11ndk-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="618" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-57" target="I9Kt_Bt82X6PKMd11ndk-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.39;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-58" target="I9Kt_Bt82X6PKMd11ndk-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="161" y="1091" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-59" target="I9Kt_Bt82X6PKMd11ndk-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="161" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-73" value="否 (继续采样)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.26;entryX=0.68;entryY=1.01;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-60" target="I9Kt_Bt82X6PKMd11ndk-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="716" y="1240" />
+              <mxPoint x="716" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-74" value="是 (触发精修)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.41;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-60" target="I9Kt_Bt82X6PKMd11ndk-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="459" y="1492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-75" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.73;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-56" target="I9Kt_Bt82X6PKMd11ndk-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="618" y="1492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-61" target="I9Kt_Bt82X6PKMd11ndk-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-62" target="I9Kt_Bt82X6PKMd11ndk-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.75;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-63" target="I9Kt_Bt82X6PKMd11ndk-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="503" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-79" value="参数重置/反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=-0.01;entryX=0.7;entryY=1;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-64" target="I9Kt_Bt82X6PKMd11ndk-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="1800" />
+              <mxPoint x="298" y="1091" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-64" target="I9Kt_Bt82X6PKMd11ndk-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-66" target="I9Kt_Bt82X6PKMd11ndk-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
