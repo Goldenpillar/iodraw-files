@@ -22,7 +22,7 @@
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-87" value="历史数据缓冲池" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="590" y="801" width="127" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="I9Kt_Bt82X6PKMd11ndk-88" value="误差模型线性化与观测矩阵构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-88" value="误差模型与观测矩阵构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="105" y="831" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-89" value="RLS 递推最小二乘估计" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
@@ -32,7 +32,7 @@
           <mxGeometry x="60" y="1046" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-91" value="判别：数据量 k ≥ N？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="391" y="1195" width="202" height="202" as="geometry" />
+          <mxGeometry x="389" y="1200" width="202" height="202" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-92" value="汇总数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="440" y="1469" width="205" height="49" as="geometry" />
