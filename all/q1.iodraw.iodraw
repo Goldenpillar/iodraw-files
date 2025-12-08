@@ -28,6 +28,9 @@
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-88" value="误差模型线性化与观测矩阵构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="105" y="745" width="252" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-89" target="I9Kt_Bt82X6PKMd11ndk-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-89" value="RLS 递推最小二乘估计" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="122" y="861" width="218" height="49" as="geometry" />
         </mxCell>
