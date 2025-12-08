@@ -114,10 +114,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I9Kt_Bt82X6PKMd11ndk-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.7;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-94" target="I9Kt_Bt82X6PKMd11ndk-95">
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-110" value="参数反馈/重置" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.72;entryY=1;rounded=0;fontSize=20;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-95" target="I9Kt_Bt82X6PKMd11ndk-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="542" y="1740" />
+              <mxPoint x="328" y="1740" />
+              <mxPoint x="328" y="1021" />
             </Array>
           </mxGeometry>
         </mxCell>
