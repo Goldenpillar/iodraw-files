@@ -32,7 +32,7 @@
           <mxGeometry x="122" y="947" width="218" height="53" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-90" value="线性参数估计值 " style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1046" width="190" height="49" as="geometry" />
+          <mxGeometry x="80" y="1046" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-91" value="判别：数据量 k ≥ N？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="389" y="1200" width="202" height="202" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="440" y="1667" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-95" value="全参数最优解 " style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="328" y="1765" width="237" height="49" as="geometry" />
+          <mxGeometry x="380" y="1765" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-96" value="输出标定系数" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="355" y="1889" width="182" height="34" as="geometry" />
@@ -112,14 +112,6 @@
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-93" target="I9Kt_Bt82X6PKMd11ndk-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I9Kt_Bt82X6PKMd11ndk-110" value="参数反馈/重置" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.72;entryY=1;rounded=0;fontSize=20;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-95" target="I9Kt_Bt82X6PKMd11ndk-89">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="328" y="1740" />
-              <mxPoint x="328" y="1021" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-95" target="I9Kt_Bt82X6PKMd11ndk-96">
