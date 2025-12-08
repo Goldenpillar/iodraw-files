@@ -40,7 +40,7 @@
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-93" value="构建扩展非线性误差模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="424" y="1568" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="I9Kt_Bt82X6PKMd11ndk-94" value="PSO 粒子群全局寻优" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-94" value="PSO 粒子群寻优" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="440" y="1667" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-95" value="全参数最优解 " style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
