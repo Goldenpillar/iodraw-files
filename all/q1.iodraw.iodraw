@@ -19,7 +19,7 @@
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-86" value="输入测量值 参考值 " style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="546" y="652" width="211" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="I9Kt_Bt82X6PKMd11ndk-87" value="历史数据池" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I9Kt_Bt82X6PKMd11ndk-87" value="历史数据缓冲池" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="590" y="801" width="127" height="71" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-88" value="误差模型线性化与观测矩阵构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
