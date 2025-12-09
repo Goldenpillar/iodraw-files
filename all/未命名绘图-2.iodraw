@@ -7,7 +7,7 @@
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-25" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="37.5" y="258" width="446" height="672" as="geometry" />
         </mxCell>
-        <mxCell id="GA6lI0h7X4m_lYRb2bbR-26" value="初始化阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="GA6lI0h7X4m_lYRb2bbR-26" value="初始化阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=23;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="20.5" y="80" width="481" height="142" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-27" value="初始化粒子群" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;" parent="GA6lI0h7X4m_lYRb2bbR-26" vertex="1">
