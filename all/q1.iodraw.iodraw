@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-113" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;阶段二：非线性全局精修（PSO）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="290" y="1170" width="400" height="30" as="geometry" />
+          <mxGeometry x="260" y="1170" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-114" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;阶段一：线性参数快速更新（RLS）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry y="776" width="440" height="30" as="geometry" />
