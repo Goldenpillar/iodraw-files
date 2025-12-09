@@ -50,11 +50,6 @@
             <mxPoint x="392.75" y="460.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oLB0TR9ynYJ7Bvkhn5G7-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Times New Roman;" parent="oLB0TR9ynYJ7Bvkhn5G7-4" vertex="1" connectable="0">
-          <mxGeometry x="-0.8385" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-35" value="是否满足终止条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="158" y="790" width="207.25" height="120" as="geometry" />
         </mxCell>
