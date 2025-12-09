@@ -53,6 +53,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5LJpxUfK7cWAt99IYmST-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5LJpxUfK7cWAt99IYmST-2">
+          <mxGeometry x="-0.8521" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-35" value="是否满足终止条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="158" y="790" width="207.25" height="120" as="geometry" />
         </mxCell>
