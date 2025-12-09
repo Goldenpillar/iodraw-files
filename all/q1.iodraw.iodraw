@@ -59,6 +59,9 @@
             <mxPoint x="7" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nBxq-j4PHndkEtNoQohA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-91" target="I9Kt_Bt82X6PKMd11ndk-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-91" value="数据量 k ≥ N？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="324" y="1200" width="202" height="202" as="geometry" />
         </mxCell>
