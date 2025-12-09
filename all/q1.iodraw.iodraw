@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-140" value="否（继续采样）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=宋体;" parent="I9Kt_Bt82X6PKMd11ndk-138" vertex="1" connectable="0">
           <mxGeometry x="0.3186" y="-3" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="7" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-91" value="数据量 k ≥ N？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
