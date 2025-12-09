@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-90" value="线性参数估计值 " style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1046" width="190" height="49" as="geometry" />
+          <mxGeometry x="70" y="1060" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.82;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;fontFamily=宋体;" parent="1" source="I9Kt_Bt82X6PKMd11ndk-91" target="I9Kt_Bt82X6PKMd11ndk-86" edge="1">
           <mxGeometry relative="1" as="geometry">
