@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-35" value="是否满足终止条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="158" y="800" width="207.25" height="120" as="geometry" />
+          <mxGeometry x="158" y="790" width="207.25" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-36" value="输出最优标定参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="164.75" y="980" width="189" height="49" as="geometry" />
