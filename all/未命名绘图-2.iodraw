@@ -11,7 +11,7 @@
           <mxGeometry x="20.5" y="80" width="481" height="142" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-27" value="初始化粒子群" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;" parent="GA6lI0h7X4m_lYRb2bbR-26" vertex="1">
-          <mxGeometry x="43" y="54" width="158" height="49" as="geometry" />
+          <mxGeometry x="29.5" y="46" width="180.5" height="64" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-28" value="评估适应度&#xa;初始化 pbest, gbest" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;" parent="GA6lI0h7X4m_lYRb2bbR-26" vertex="1">
           <mxGeometry x="251" y="46" width="203" height="67" as="geometry" />
