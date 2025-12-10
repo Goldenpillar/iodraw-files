@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-34" value="综合建模" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="627" width="640" height="214" as="geometry" />
+          <mxGeometry x="414" y="627" width="640" height="214" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-35" value="改进/扩展部分" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="340" width="520" height="237" as="geometry" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-44" value="非线性响应特性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1086" y="374" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-45" target="X2JbM1D3WQsbbw8jZZmH-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-45" value="二阶/高阶非线性误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1066" y="503" width="212" height="48" as="geometry" />
