@@ -26,13 +26,13 @@
           <mxGeometry x="326" y="374" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-39" value="比例因子失配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="135" y="503" width="157" height="48" as="geometry" />
+          <mxGeometry x="160" y="503" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-40" value="轴间非正交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="342" y="503" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-41" value="零偏漂移" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="533" y="503" width="125" height="48" as="geometry" />
+          <mxGeometry x="510" y="503" width="125" height="47" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-42" value="标定磁场引入误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="858" y="374" width="189" height="48" as="geometry" />
