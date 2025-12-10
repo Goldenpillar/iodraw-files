@@ -32,7 +32,7 @@
           <mxGeometry x="442" y="503" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-41" value="零偏漂移" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="610" y="503" width="125" height="47" as="geometry" />
+          <mxGeometry x="598" y="504" width="125" height="47" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-42" value="标定磁场引入误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="808" y="374" width="189" height="48" as="geometry" />
