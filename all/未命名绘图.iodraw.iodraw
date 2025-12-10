@@ -13,9 +13,6 @@
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-36" value="传统/基础部分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="340" width="592" height="237" as="geometry" />
         </mxCell>
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-37" value="磁通门标定目标: 求得误差参数" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="647" y="365" width="149" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-38" value="传感器测量误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="374" width="172" height="48" as="geometry" />
         </mxCell>
