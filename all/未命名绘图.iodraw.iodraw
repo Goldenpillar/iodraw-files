@@ -25,8 +25,14 @@
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-39" value="比例因子失配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="503" width="157" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-40" target="X2JbM1D3WQsbbw8jZZmH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-40" value="轴间非正交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="262" y="503" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-41" target="X2JbM1D3WQsbbw8jZZmH-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-41" value="零偏漂移" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="453" y="503" width="125" height="48" as="geometry" />
@@ -72,13 +78,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="133" y="627" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=1;entryY=0.08;rounded=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-41" target="X2JbM1D3WQsbbw8jZZmH-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="515" y="627" />
             </Array>
           </mxGeometry>
         </mxCell>
