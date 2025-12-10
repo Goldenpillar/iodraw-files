@@ -85,20 +85,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.53;entryY=0;rounded=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-40" target="X2JbM1D3WQsbbw8jZZmH-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="332" y="627" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=1;entryY=0.08;rounded=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-41" target="X2JbM1D3WQsbbw8jZZmH-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="515" y="627" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-43" target="X2JbM1D3WQsbbw8jZZmH-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
