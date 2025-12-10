@@ -37,6 +37,9 @@
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-42" value="标定磁场引入误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="808" y="374" width="189" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-43" target="X2JbM1D3WQsbbw8jZZmH-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-43" value="线圈矩阵/环境耦合误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="788" y="503" width="228" height="48" as="geometry" />
         </mxCell>
