@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-34" value="综合建模" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="627" width="684" height="214" as="geometry" />
+          <mxGeometry x="382" y="627" width="684" height="214" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-35" value="改进/扩展部分" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="340" width="520" height="237" as="geometry" />
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-42" value="标定磁场引入误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="808" y="374" width="189" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-43" target="X2JbM1D3WQsbbw8jZZmH-47">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-43" value="线圈矩阵/环境耦合误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="788" y="503" width="228" height="48" as="geometry" />
