@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-34" value="综合建模" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="627" width="700" height="214" as="geometry" />
+          <mxGeometry x="410" y="627" width="640" height="214" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-35" value="改进/扩展部分" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="340" width="520" height="237" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="426" y="374" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-39" value="比例因子失配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="503" width="157" height="48" as="geometry" />
+          <mxGeometry x="269" y="503" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-40" value="轴间非正交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="442" y="503" width="141" height="48" as="geometry" />
