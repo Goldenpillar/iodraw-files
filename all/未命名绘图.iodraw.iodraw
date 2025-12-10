@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-34" value="综合建模" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-34" value="综合建模" style="whiteSpace=wrap;strokeWidth=2;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="82" y="627" width="1282" height="214" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-35" value="改进/扩展部分" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-45" value="二阶/高阶非线性误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1144" y="503" width="212" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-46" value="`" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-46" value="基础线性模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="652" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-47" value="环境补偿项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -51,6 +51,13 @@
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-50" value="设计有效求解方案&#xa;RLS-PSO算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="890" y="891" width="189" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-38" target="X2JbM1D3WQsbbw8jZZmH-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="467" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-38" target="X2JbM1D3WQsbbw8jZZmH-40">
           <mxGeometry relative="1" as="geometry">
@@ -130,9 +137,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.439;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-38" target="X2JbM1D3WQsbbw8jZZmH-39">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
