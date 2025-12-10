@@ -13,6 +13,12 @@
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-36" value="传统/基础部分" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="340" width="592" height="237" as="geometry" />
         </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-38" target="X2JbM1D3WQsbbw8jZZmH-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-38" target="X2JbM1D3WQsbbw8jZZmH-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-38" value="传感器测量误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="374" width="172" height="48" as="geometry" />
         </mxCell>
@@ -52,11 +58,6 @@
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-50" value="设计有效求解方案&#xa;RLS-PSO算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="890" y="891" width="189" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-38" target="X2JbM1D3WQsbbw8jZZmH-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-54" value="实验优化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-42" target="X2JbM1D3WQsbbw8jZZmH-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -71,13 +72,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="133" y="627" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2JbM1D3WQsbbw8jZZmH-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.53;entryY=0;rounded=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-40" target="X2JbM1D3WQsbbw8jZZmH-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="332" y="627" />
             </Array>
           </mxGeometry>
         </mxCell>
