@@ -8,7 +8,7 @@
           <mxGeometry x="410" y="627" width="700" height="214" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-35" value="改进/扩展部分" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="340" width="520" height="237" as="geometry" />
+          <mxGeometry x="770" y="340" width="520" height="237" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-36" value="传统/基础部分" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="510" height="237" as="geometry" />
@@ -35,16 +35,16 @@
           <mxGeometry x="610" y="503" width="125" height="47" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-42" value="标定磁场引入误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="858" y="374" width="189" height="48" as="geometry" />
+          <mxGeometry x="808" y="374" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-43" value="线圈矩阵/环境耦合误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="838" y="503" width="228" height="48" as="geometry" />
+          <mxGeometry x="788" y="503" width="228" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-44" value="非线性响应特性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1136" y="374" width="173" height="48" as="geometry" />
+          <mxGeometry x="1086" y="374" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-45" value="二阶/高阶非线性误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="503" width="212" height="48" as="geometry" />
+          <mxGeometry x="1066" y="503" width="212" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-46" value="基础线性模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="652" width="156" height="48" as="geometry" />
