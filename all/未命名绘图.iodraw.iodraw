@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="biq0o3DwPasQ_8V1mv7F">
-    <mxGraphModel dx="5180" dy="2743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,6 +137,43 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-65" value="传统/基础部分" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="347" width="592" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-66" value="传感器测量误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="246" y="381" width="172" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-67" value="比例因子失配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="510" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-68" value="轴间非正交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="262" y="510" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-69" value="零偏漂移" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="453" y="510" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" source="X2JbM1D3WQsbbw8jZZmH-66" target="X2JbM1D3WQsbbw8jZZmH-67" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" source="X2JbM1D3WQsbbw8jZZmH-66" target="X2JbM1D3WQsbbw8jZZmH-68" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" source="X2JbM1D3WQsbbw8jZZmH-66" target="X2JbM1D3WQsbbw8jZZmH-69" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2JbM1D3WQsbbw8jZZmH-73" value="基础线性模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="246" y="659" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
