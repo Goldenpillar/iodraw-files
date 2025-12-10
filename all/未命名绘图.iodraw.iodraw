@@ -11,7 +11,7 @@
           <mxGeometry x="803" y="340" width="561" height="237" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-36" value="传统/基础部分" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="340" width="592" height="237" as="geometry" />
+          <mxGeometry x="200" y="340" width="592" height="237" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2JbM1D3WQsbbw8jZZmH-38" target="X2JbM1D3WQsbbw8jZZmH-40">
           <mxGeometry relative="1" as="geometry" />
@@ -23,16 +23,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-38" value="传感器测量误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="326" y="374" width="172" height="48" as="geometry" />
+          <mxGeometry x="426" y="374" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-39" value="比例因子失配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="503" width="157" height="48" as="geometry" />
+          <mxGeometry x="260" y="503" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-40" value="轴间非正交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="342" y="503" width="141" height="48" as="geometry" />
+          <mxGeometry x="442" y="503" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-41" value="零偏漂移" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="503" width="125" height="47" as="geometry" />
+          <mxGeometry x="610" y="503" width="125" height="47" as="geometry" />
         </mxCell>
         <mxCell id="X2JbM1D3WQsbbw8jZZmH-42" value="标定磁场引入误差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="858" y="374" width="189" height="48" as="geometry" />
