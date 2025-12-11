@@ -20,7 +20,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ur93cD61bnzhUNDdmt_B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I9Kt_Bt82X6PKMd11ndk-86" target="I9Kt_Bt82X6PKMd11ndk-87">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="713" y="888" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-86" value="输入测量值 参考值 " style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="531.25" y="838" width="251.5" height="50" as="geometry" />
