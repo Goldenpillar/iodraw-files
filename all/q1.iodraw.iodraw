@@ -51,12 +51,12 @@
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;fontFamily=Helvetica;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="616" y="888" as="targetPoint" />
+            <mxPoint x="609.5" y="888" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="616" y="1301" />
-              <mxPoint x="616" y="888" />
+              <mxPoint x="609.5" y="1301" />
+              <mxPoint x="609.5" y="888" />
             </Array>
-            <mxPoint x="522" y="1301" as="sourcePoint" />
+            <mxPoint x="515.5" y="1301" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-140" value="否（继续采样）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Helvetica;" parent="I9Kt_Bt82X6PKMd11ndk-138" vertex="1" connectable="0">
