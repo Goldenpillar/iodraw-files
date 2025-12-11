@@ -38,13 +38,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-33" value="更新每个粒子的 pbest" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="152" y="550" width="218" height="49" as="geometry" />
+          <mxGeometry x="152" y="536" width="218" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FgGvh3u3OIfjpJaKf9ta-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GA6lI0h7X4m_lYRb2bbR-34" target="GA6lI0h7X4m_lYRb2bbR-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-34" value="更新全局 gbest" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="176.5" y="620" width="169" height="49" as="geometry" />
+          <mxGeometry x="176.5" y="610" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FgGvh3u3OIfjpJaKf9ta-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GA6lI0h7X4m_lYRb2bbR-35" target="GA6lI0h7X4m_lYRb2bbR-36">
           <mxGeometry relative="1" as="geometry" />
