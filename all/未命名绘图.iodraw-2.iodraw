@@ -34,26 +34,19 @@
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-34" value="更新全局 gbest" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="176.5" y="620" width="169" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="FgGvh3u3OIfjpJaKf9ta-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GA6lI0h7X4m_lYRb2bbR-35" target="GA6lI0h7X4m_lYRb2bbR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-35" value="是否满足终止条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="170.5" y="680" width="184" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-36" value="输出最优标定参数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="170.5" y="850" width="189" height="49" as="geometry" />
+          <mxGeometry x="166.5" y="850" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-37" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="236" y="940" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="GA6lI0h7X4m_lYRb2bbR-30" target="GA6lI0h7X4m_lYRb2bbR-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GA6lI0h7X4m_lYRb2bbR-44" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="GA6lI0h7X4m_lYRb2bbR-35" target="GA6lI0h7X4m_lYRb2bbR-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GA6lI0h7X4m_lYRb2bbR-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;" parent="1" source="GA6lI0h7X4m_lYRb2bbR-36" target="GA6lI0h7X4m_lYRb2bbR-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
