@@ -22,6 +22,9 @@
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-30" value="进化循环" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="197.5" y="310" width="126" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="FgGvh3u3OIfjpJaKf9ta-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GA6lI0h7X4m_lYRb2bbR-31" target="GA6lI0h7X4m_lYRb2bbR-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-31" value="更新所有粒子的速度与位置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="133.5" y="390" width="254" height="49" as="geometry" />
         </mxCell>
