@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GA6lI0h7X4m_lYRb2bbR-25" value="进化优化阶段" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="GA6lI0h7X4m_lYRb2bbR-25" value="进化优化阶段" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="296" width="470" height="729" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-26" value="初始化阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
