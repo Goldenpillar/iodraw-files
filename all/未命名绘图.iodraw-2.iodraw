@@ -54,6 +54,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FgGvh3u3OIfjpJaKf9ta-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GA6lI0h7X4m_lYRb2bbR-35" target="FgGvh3u3OIfjpJaKf9ta-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-35" value="是否满足终止条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="166.5" y="680" width="184" height="90" as="geometry" />
         </mxCell>
@@ -82,7 +85,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FgGvh3u3OIfjpJaKf9ta-14" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;输出最优标定参数&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="166.5" y="810" width="182" height="44.5" as="geometry" />
+          <mxGeometry x="167.5" y="810" width="182" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FgGvh3u3OIfjpJaKf9ta-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
