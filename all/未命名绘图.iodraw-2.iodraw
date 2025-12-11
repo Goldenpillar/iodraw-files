@@ -28,9 +28,6 @@
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-32" value="评估新位置的适应度" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="119" y="519" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FgGvh3u3OIfjpJaKf9ta-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GA6lI0h7X4m_lYRb2bbR-33" target="GA6lI0h7X4m_lYRb2bbR-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-33" value="更新每个粒子的 pbest" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="74" y="618" width="218" height="49" as="geometry" />
         </mxCell>
@@ -49,18 +46,6 @@
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="GA6lI0h7X4m_lYRb2bbR-30" target="GA6lI0h7X4m_lYRb2bbR-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GA6lI0h7X4m_lYRb2bbR-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="GA6lI0h7X4m_lYRb2bbR-33" target="GA6lI0h7X4m_lYRb2bbR-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GA6lI0h7X4m_lYRb2bbR-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.17;entryY=0;rounded=0;" parent="1" source="GA6lI0h7X4m_lYRb2bbR-34" target="GA6lI0h7X4m_lYRb2bbR-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="183" y="791" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-44" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="GA6lI0h7X4m_lYRb2bbR-35" target="GA6lI0h7X4m_lYRb2bbR-36" edge="1">
