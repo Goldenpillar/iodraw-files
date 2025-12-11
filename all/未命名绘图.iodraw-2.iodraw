@@ -26,13 +26,13 @@
           <mxGeometry x="134" y="420" width="254" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-32" value="评估新位置的适应度" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="119" y="519" width="205" height="49" as="geometry" />
+          <mxGeometry x="300" y="519" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-33" value="更新每个粒子的 pbest" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="74" y="618" width="218" height="49" as="geometry" />
+          <mxGeometry x="50" y="519" width="218" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-34" value="更新全局 gbest" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="99" y="717" width="169" height="49" as="geometry" />
+          <mxGeometry x="198" y="580" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GA6lI0h7X4m_lYRb2bbR-35" value="是否满足终止条件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="169" y="816" width="184" height="184" as="geometry" />
