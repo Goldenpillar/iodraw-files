@@ -13,6 +13,9 @@
         <mxCell id="OmqPD185rUae18h11MJM-3" value="生成候选磁场点集" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontColor=default;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="120.5" y="1030" width="189" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="OmqPD185rUae18h11MJM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-4" target="OmqPD185rUae18h11MJM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-4" value="计算候选点雅可比向量" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="104" y="1110" width="222" height="49" as="geometry" />
         </mxCell>
@@ -35,13 +38,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-9" target="OmqPD185rUae18h11MJM-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1600" />
+              <mxPoint x="360" y="1122" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-9" value="是否收敛？" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="1590" width="162" height="80" as="geometry" />
+          <mxGeometry x="133.5" y="1560" width="162" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="133.5" y="1740" width="94" height="49" as="geometry" />
+          <mxGeometry x="168" y="1705" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-1" target="OmqPD185rUae18h11MJM-2">
           <mxGeometry relative="1" as="geometry">
