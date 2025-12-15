@@ -31,7 +31,7 @@
         <mxCell id="OmqPD185rUae18h11MJM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-8" target="OmqPD185rUae18h11MJM-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OmqPD185rUae18h11MJM-8" value="RLS算法更新&#xa;(更新参数 θ 与 协方差 P)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OmqPD185rUae18h11MJM-8" value="RLS算法更新&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1574" width="237" height="67" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-9" target="OmqPD185rUae18h11MJM-4">
