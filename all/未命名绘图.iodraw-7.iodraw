@@ -42,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-9" value="是否收敛？" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="99.5" y="1590" width="162" height="80" as="geometry" />
+          <mxGeometry x="147.5" y="1580" width="162" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="133.5" y="1740" width="94" height="49" as="geometry" />
