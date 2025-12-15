@@ -20,10 +20,10 @@
           <mxGeometry x="138.5" y="1200" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-6" value="选择下一测试点" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-19" y="1330" width="173" height="67" as="geometry" />
+          <mxGeometry x="128.5" y="1280" width="173" height="67" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-7" value="施加磁场采样" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-13" y="1430" width="157" height="49" as="geometry" />
+          <mxGeometry x="136" y="1390" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-8" target="OmqPD185rUae18h11MJM-9">
           <mxGeometry relative="1" as="geometry">
