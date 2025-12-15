@@ -13,14 +13,11 @@
         <mxCell id="OmqPD185rUae18h11MJM-3" value="生成候选磁场点集" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontColor=default;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="120.5" y="1030" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OmqPD185rUae18h11MJM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-4" target="OmqPD185rUae18h11MJM-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-4" value="计算候选点雅可比向量" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="104" y="1110" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-5" value="计算信息增益" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1230" width="153" height="49" as="geometry" />
+          <mxGeometry x="138.5" y="1200" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-6" value="选择下一测试点" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-19" y="1330" width="173" height="67" as="geometry" />
