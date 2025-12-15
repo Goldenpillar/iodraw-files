@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-96" value="输出系数" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="331" y="1880" width="182" height="34" as="geometry" />
+          <mxGeometry x="332.5" y="1870" width="182" height="34" as="geometry" />
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-97" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="401" y="1960" width="47" height="47" as="geometry" />
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NAzNg8uGD_gsViDMrAKE-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;参数最优？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354.5" y="1754" width="140" height="80" as="geometry" />
+          <mxGeometry x="354.5" y="1740" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
