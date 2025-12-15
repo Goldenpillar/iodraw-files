@@ -129,8 +129,8 @@
         <mxCell id="NAzNg8uGD_gsViDMrAKE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAzNg8uGD_gsViDMrAKE-1" target="I9Kt_Bt82X6PKMd11ndk-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAzNg8uGD_gsViDMrAKE-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NAzNg8uGD_gsViDMrAKE-4">
-          <mxGeometry x="-0.1304" y="-3" relative="1" as="geometry">
+        <mxCell id="NAzNg8uGD_gsViDMrAKE-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NAzNg8uGD_gsViDMrAKE-4">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
