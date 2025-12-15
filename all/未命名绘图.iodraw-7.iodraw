@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="UhH7_YUcqYfyIYXeibA4">
-    <mxGraphModel dx="970" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3463" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="OmqPD185rUae18h11MJM-2" value="模型初始化" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=default;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="144" y="939" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OmqPD185rUae18h11MJM-3" value="生成候选磁场点集" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=default;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="OmqPD185rUae18h11MJM-3" value="生成候选磁场点集" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="121" y="1038" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=default;verticalAlign=middle;align=center;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-4" target="OmqPD185rUae18h11MJM-5">
