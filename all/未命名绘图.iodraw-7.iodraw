@@ -13,6 +13,9 @@
         <mxCell id="OmqPD185rUae18h11MJM-3" value="生成候选磁场点集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="121" y="1038" width="189" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="OmqPD185rUae18h11MJM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-4" target="OmqPD185rUae18h11MJM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-4" value="计算候选点雅可比向量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="104" y="1137" width="222" height="49" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry x="20" y="1574" width="237" height="67" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-9" value="收敛判定" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="158" y="1690" width="114" height="114" as="geometry" />
+          <mxGeometry x="168" y="1680" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="168" y="1877" width="94" height="49" as="geometry" />
