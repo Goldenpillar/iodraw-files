@@ -34,6 +34,12 @@
         <mxCell id="OmqPD185rUae18h11MJM-8" value="RLS算法更新&#xa;(更新参数 θ 与 协方差 P)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1574" width="237" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="OmqPD185rUae18h11MJM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-9" target="OmqPD185rUae18h11MJM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OmqPD185rUae18h11MJM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-9" target="OmqPD185rUae18h11MJM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-9" value="收敛判定" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="168" y="1680" width="114" height="114" as="geometry" />
         </mxCell>
@@ -66,11 +72,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-7" target="OmqPD185rUae18h11MJM-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OmqPD185rUae18h11MJM-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-9" target="OmqPD185rUae18h11MJM-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
