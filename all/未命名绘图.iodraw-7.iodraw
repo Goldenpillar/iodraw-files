@@ -25,9 +25,6 @@
         <mxCell id="OmqPD185rUae18h11MJM-6" value="选择下一测试点" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="128.5" y="1280" width="173" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="OmqPD185rUae18h11MJM-7" value="施加磁场采样" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="136" y="1390" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-8" target="OmqPD185rUae18h11MJM-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -71,14 +68,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OmqPD185rUae18h11MJM-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-6" target="OmqPD185rUae18h11MJM-7">
+        <mxCell id="OmqPD185rUae18h11MJM-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="214.5" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OmqPD185rUae18h11MJM-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-7" target="OmqPD185rUae18h11MJM-8">
+        <mxCell id="OmqPD185rUae18h11MJM-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" edge="1" parent="1" target="OmqPD185rUae18h11MJM-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="214.5" y="1439" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
