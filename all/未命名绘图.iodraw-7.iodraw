@@ -22,7 +22,7 @@
         <mxCell id="OmqPD185rUae18h11MJM-5" value="计算信息增益/不确定性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="23" y="1236" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OmqPD185rUae18h11MJM-6" value="选择下一测试点&#xa;(Max Info Gain)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OmqPD185rUae18h11MJM-6" value="选择下一测试点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="1335" width="173" height="67" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-7" value="施加磁场采样" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -44,7 +44,7 @@
           <mxGeometry x="168" y="1680" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="168" y="1877" width="94" height="49" as="geometry" />
+          <mxGeometry x="178" y="1840" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OmqPD185rUae18h11MJM-1" target="OmqPD185rUae18h11MJM-2">
           <mxGeometry relative="1" as="geometry">
