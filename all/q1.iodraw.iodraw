@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="I9Kt_Bt82X6PKMd11ndk-140" value="否（继续采样）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Helvetica;" parent="I9Kt_Bt82X6PKMd11ndk-138" vertex="1" connectable="0">
           <mxGeometry x="0.3186" y="-3" relative="1" as="geometry">
-            <mxPoint x="7" y="38" as="offset" />
+            <mxPoint x="-2" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nBxq-j4PHndkEtNoQohA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="I9Kt_Bt82X6PKMd11ndk-91" target="I9Kt_Bt82X6PKMd11ndk-92" edge="1">
