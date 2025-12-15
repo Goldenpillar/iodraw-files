@@ -17,7 +17,7 @@
           <mxGeometry x="104" y="1120" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-5" value="计算信息增益" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="27" y="1236" width="153" height="49" as="geometry" />
+          <mxGeometry x="80" y="1190" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OmqPD185rUae18h11MJM-6" value="选择下一测试点" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;verticalAlign=middle;align=center;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="52" y="1335" width="173" height="67" as="geometry" />
