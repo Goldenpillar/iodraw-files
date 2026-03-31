@@ -48,6 +48,9 @@
         <mxCell id="8Df23COngPP3rU5kgO3t-38" value="PSO精修" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-40" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="980" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
