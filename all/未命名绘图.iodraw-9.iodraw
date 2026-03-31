@@ -1,0 +1,105 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="1LhvAUn7W7JjdkZ33ob8">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8Df23COngPP3rU5kgO3t-1" value="START / 算法开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="168" y="20" width="148" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-2" value="&lt;b&gt;矩形框 1 — 数据加载与预处理&lt;/b&gt;&#xa;• 读取 Excel 数据集&#xa;• 筛选状态列 = Y 的有效行&#xa;• 提取：B_theory（理论磁场，N×3）和 B_meas（实测磁场，N×3）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="115" y="104" width="253" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-3" value="&lt;b&gt;矩形框 2 — 随机初始采样&lt;/b&gt;&#xa;• 从全部 N 个点中随机选取 7 个点 (n_init = 7, seed = 42)&#xa;• 初始化已选集合：selected = {第0批7个索引}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="115" y="326" width="253" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-4" value="&lt;b&gt;矩形框 3 — 初始 Huber 稳健回归&lt;/b&gt;&#xa;• 第一步：用 OLS 求初始解（暖启动）&#xa;• 第二步：以 OLS 解为初值，用 TRF 优化器最小化 Huber 损失 (δ=1.345)&#xa;• 输出：参数向量 θ = [A(3×3); b₀(3×1)] ∈ ℝ¹²&#xa;• 模型：B̂_meas = A · B_theory + b₀" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="115" y="548" width="254" height="243" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-5" value="&lt;b&gt;矩形框 4 — D-最优准则选点&lt;/b&gt;&#xa;• 计算 Fisher 信息矩阵：I = XᵀX（加 1e-6 正则化）&#xa;• 找最大信息增益点：i* = argmax(xᵢᵀ · I⁻¹ · xᵢ)&#xa;• 将 i* 加入已选集：selected ← selected ∪ {i*}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="114" y="841" width="256" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-6" value="&lt;b&gt;矩形框 5 — 更新 Huber 回归&lt;/b&gt;&#xa;• 用新的 selected 集合重新执行稳健回归&#xa;• 更新参数：params_prev ← params_curr，params_curr ← 新拟合结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1081" width="255" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-7" value="&lt;b&gt;双重收敛判断&lt;/b&gt;&#xa;同时满足：&#xa;1. max(‖ΔA‖/‖A‖, ‖Δb₀‖/‖b₀‖) &amp;lt; 5×10⁻⁴&#xa;2. max(std(eₓ), std(eᵧ), std(e_z)) &amp;lt; 0.5 nT" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="126" y="1303" width="232" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-8" value="&lt;b&gt;矩形框 6 — PSO 粒子群精修&lt;/b&gt;&#xa;• 参数：粒子数=50, 迭代=300, c₁=c₂=1.5, w: 0.9→0.5, 早停=10&#xa;• 初始化：50% Huber解附近(σ=0.005), 50% 广范围(σ=0.02)&#xa;• 目标：f(θ) = RMSE + 0.1 × min(cond(A)/1000, 1)&#xa;• 输出：精修后的最优参数 θ_PSO" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="113" y="1608" width="257" height="243" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-9" value="&lt;b&gt;矩形框 7 — 全数据集评估&lt;/b&gt;&#xa;• 标定逆变换：B_calib = (B_meas − b₀) · A⁻ᵀ (全部N点)&#xa;• 计算：RMSE, MAE, MaxError, MedAE, R², RelErr(%), CondNum 等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="124" y="1901" width="234" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-10" value="&lt;b&gt;矩形框 8 — 结果保存输出&lt;/b&gt;&#xa;• calibrated_*.xlsx — 标定后磁场 + 误差&#xa;• calibration_summary.xlsx — Robust vs PSO 双阶段对比&#xa;• convergence_log.xlsx — 每步收敛日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="114" y="2123" width="255" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-11" value="END / 标定完成" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2363" width="134" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-1" target="8Df23COngPP3rU5kgO3t-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-2" target="8Df23COngPP3rU5kgO3t-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-3" target="8Df23COngPP3rU5kgO3t-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-4" target="8Df23COngPP3rU5kgO3t-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-5" target="8Df23COngPP3rU5kgO3t-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="148" y="1056" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.16;entryY=0;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-6" target="8Df23COngPP3rU5kgO3t-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="148" y="1278" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-18" value="否(No)" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0;entryX=0.79;entryY=1;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-7" target="8Df23COngPP3rU5kgO3t-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="336" y="1278" />
+              <mxPoint x="336" y="1056" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-19" value="是(Yes) 或 样本用完" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-7" target="8Df23COngPP3rU5kgO3t-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-8" target="8Df23COngPP3rU5kgO3t-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-9" target="8Df23COngPP3rU5kgO3t-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="8Df23COngPP3rU5kgO3t-10" target="8Df23COngPP3rU5kgO3t-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
