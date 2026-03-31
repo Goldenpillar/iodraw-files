@@ -10,6 +10,9 @@
         <mxCell id="8Df23COngPP3rU5kgO3t-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="585" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8Df23COngPP3rU5kgO3t-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="690" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
